@@ -24,6 +24,8 @@ each nucleotide with its complement:
 * `A` -> `U`
 
 ## Source
+### solved by 
+@aybalde
 
 ### Created by
 
